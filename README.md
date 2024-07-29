@@ -4,10 +4,10 @@ A Customer Support Ticket Predictor is a predictive model designed to forecast o
 It uses historical data and patterns to make predictions about the volume or nature of support tickets that a customer service team might receive.
 
 ### Applications include:
-Resource Allocation 
-Prioritization 
-Response Time Improvement 
-Customer Satisfaction
+- Resource Allocation 
+- Prioritization 
+- Response Time Improvement 
+- Customer Satisfaction
 
 ###  INRODUCTION
 The primary purpose of a Customer Support Ticket Predictor is to enhance operational efficiency by allowing companies to allocate resources effectively. 
